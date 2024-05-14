@@ -6,8 +6,9 @@
     "side": "minecraft:block/pumpkin_side"
   },
   "overrides": [
-  {"predicate":{"custom_model_data": 1}, "model": "custom:item/red_santa_hat"},
-  {"predicate":{"custom_model_data": 2}, "model": "custom:item/sims_diamond"}
+  {"predicate":{"custom_model_data": 1}, "model": "custom:item/hats/red_santa_hat"},
+  {"predicate":{"custom_model_data": 2}, "model": "custom:item/hats/sims_diamond"},
+  {"predicate":{"custom_model_data": 3}, "model": "custom:item/hats/barry_hat_model"}
 
   ]
 }
