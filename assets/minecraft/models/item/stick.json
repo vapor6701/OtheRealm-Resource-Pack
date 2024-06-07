@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/stick"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "custom:item/barry_cane"}
+    {"predicate": {"custom_model_data": 1}, "model": "custom:item/barry_cane"},
+    {"predicate": {"custom_model_data": 2}, "model": "custom:item/shar_staff"}
     ]
 }

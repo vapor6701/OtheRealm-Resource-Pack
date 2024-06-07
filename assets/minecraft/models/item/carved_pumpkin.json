@@ -8,7 +8,9 @@
   "overrides": [
   {"predicate":{"custom_model_data": 1}, "model": "custom:item/hats/red_santa_hat"},
   {"predicate":{"custom_model_data": 2}, "model": "custom:item/hats/sims_diamond"},
-  {"predicate":{"custom_model_data": 3}, "model": "custom:item/hats/barry_hat_model"}
-
+  {"predicate":{"custom_model_data": 3}, "model": "custom:item/hats/barry_hat_model"},
+  {"predicate":{"custom_model_data": 4}, "model": "custom:item/hats/bowler_hat"},
+  {"predicate":{"custom_model_data": 5}, "model": "custom:item/hats/owl_construction_hat"},
+  {"predicate":{"custom_model_data": 6}, "model": "custom:item/hats/stick_hat"}
   ]
 }
