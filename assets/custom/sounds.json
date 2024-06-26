@@ -1,0 +1,11 @@
+{
+"music_disc.dog" : {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/dog",
+        "stream": true
+      }
+    ]
+  }
+}
