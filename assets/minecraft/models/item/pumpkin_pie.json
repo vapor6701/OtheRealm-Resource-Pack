@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/pumpkin_pie"
   },
   "overrides": [
-  {"predicate":{"custom_model_data": 1}, "model": "minecraft:blaze_rod"}
+  {"predicate":{"custom_model_data": 1}, "model": "minecraft:item/blaze_rod"}
   ]
 }
