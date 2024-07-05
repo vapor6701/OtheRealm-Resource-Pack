@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "stick",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "custom:item/shar_staff/handle",

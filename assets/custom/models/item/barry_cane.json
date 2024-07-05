@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "stick",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "custom:item/barry_staff/handle",
