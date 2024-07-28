@@ -1,10 +1,71 @@
 {
-"music_disc.dog" : {
+  "music_disc.dog" : {
     "subtitle": "Music Plays",
     "sounds": [
       {
         "name": "custom:records/dog",
         "stream": true
+      }
+    ]
+  },
+  "music_disc.rick_roll" : {
+    "subtitle": "Gotcha!",
+    "sounds": [
+      {
+        "name": "custom:records/rick_roll",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.doom" : {
+    "subtitle": "Rip and Tear!",
+    "sounds": [
+      {
+        "name": "custom:records/doom_disc",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.gameshow" : {
+    "subtitle": "Welcome to the Gameshow!",
+    "sounds": [
+      {
+        "name": "custom:records/cal_game_show",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.vibe_song" : {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/cal_vibe_song",
+        "stream": true,
+        "volume": 0.2
+      }
+    ]
+  },
+  "horn.augh" : {
+    "subtitle": "AUGH",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/augh_horn"
+      }
+    ]
+  },
+  "horn.bruh" : {
+    "subtitle": "Bruh",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/bruh_horn"
+      }
+    ]
+  },
+  "horn.cal_pain" : {
+    "subtitle": "I am in pain",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/cal_pain_horn"
       }
     ]
   }
