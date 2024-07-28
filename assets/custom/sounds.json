@@ -68,5 +68,37 @@
         "name": "custom:item/goat_horn/cal_pain_horn"
       }
     ]
+  },
+  "horn.father_help" : {
+    "subtitle": "Father Help!",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/father_help_horn"
+      }
+    ]
+  },
+  "horn.vine_boom" : {
+    "subtitle": "Vine",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/vine_boom_horn"
+      }
+    ]
+  },
+  "horn.yippee" : {
+    "subtitle": "Yippee!!",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/yippee_horn"
+      }
+    ]
+  },
+  "horn.amongus" : {
+    "subtitle": "Amongus",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/amongus"
+      }
+    ]
   }
 }

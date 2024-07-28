@@ -2,41 +2,46 @@
 Resource pack list
 
 
-add game show song
+
+
 
 add circus tunes
 
-add
 
-Streets of wonder
-https://www.youtube.com/watch?v=cEYv63EKgM0
+DISCS
+  
+  wii shop theme
 
-Rick roll
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  wii shop cursed theme
 
+  elevator music
 
-
-The Only Thing They Fear is You - Mick Gordon
-(doom)
-
-
-Cal's Game Show Theme - Dr. Revo
-
-
-Streets of Wonder (Vibe Song) - Marc Torch
-
-
-????? - ???????
-(Rick roll)
 
 
 HORNS
 
-"horn.augh" - AUGH
+  Lego brick break
 
-  "horn.bruh" - BRUH
+  Discord ping notification
 
-  "horn.cal_pain" - I am in Pain
+  Yoda death sound
+
+  fart with reverb
+
+  prowler motif (cal dm)
+
+  moai sound effect ?
+
+  fnaf hallway 2
+
+  fnaf har har har https://www.youtube.com/watch?v=UOgd8z-o_VM
+
+  hasbin hotel take that depression https://www.youtube.com/watch?v=_Wuom1eQ-Xw
+
+  metal pipe
+
+  uncopywrited circus tunes (barry)
+
 
 
 Goat horn
