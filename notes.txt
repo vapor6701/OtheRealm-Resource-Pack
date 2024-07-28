@@ -1,0 +1,63 @@
+
+Resource pack list
+
+
+add game show song
+
+add circus tunes
+
+add
+
+Streets of wonder
+https://www.youtube.com/watch?v=cEYv63EKgM0
+
+Rick roll
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+
+
+The Only Thing They Fear is You - Mick Gordon
+(doom)
+
+
+Cal's Game Show Theme - Dr. Revo
+
+
+Streets of Wonder (Vibe Song) - Marc Torch
+
+
+????? - ???????
+(Rick roll)
+
+
+HORNS
+
+"horn.augh" - AUGH
+
+  "horn.bruh" - BRUH
+
+  "horn.cal_pain" - I am in Pain
+
+
+Goat horn
+/give vapor6701 minecraft:goat_horn[minecraft:instrument={sound_event:{sound_id:"minecraft:entity.warden.sonic_boom"},use_duration:80, range:20f},minecraft:lore=["Bruh"]]
+
+
+
+
+Datapacks
+
+replace mine with vanilla tweaks
+
+add mob heads and armored elytra
+
+create "food-inator" datapack
+
+	turn function into trigger
+
+
+
+
+Look into "parrot keeps dancing" bug
+
+Look into "jukebox attenuation distance"
