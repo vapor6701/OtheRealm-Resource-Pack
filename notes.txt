@@ -1,11 +1,4 @@
-
-Resource pack list
-
-
-
-
-
-add circus tunes
+Resource pack TODO
 
 
 DISCS
@@ -15,6 +8,13 @@ DISCS
   wii shop cursed theme
 
   elevator music
+
+  circus tunes (Aphid)
+
+  Duel of the fates
+
+  Nyan Cat
+
 
 
 
@@ -26,8 +26,6 @@ HORNS
 
   Yoda death sound
 
-  fart with reverb
-
   prowler motif (cal dm)
 
   moai sound effect ?
@@ -38,11 +36,101 @@ HORNS
 
   hasbin hotel take that depression https://www.youtube.com/watch?v=_Wuom1eQ-Xw
 
-  metal pipe
-
   uncopywrited circus tunes (barry)
 
+  pickle (barry)
 
+  Roblox OOF
+
+  bee movie introduction
+
+  PH drum track
+
+  Hey guys did you know Vaporeon...
+
+  Batman Ive got a lobunny batman
+
+  21
+
+  Look at all those chickens
+
+  I smell like beef
+
+  Road work ahead, I sure hope it does
+
+  games unlimited games
+
+  Judas No!
+
+  This is a pen
+
+  Hi welcome to chilis
+
+  YEET
+
+  Cricket Sounds
+
+  uWu
+
+  Ara Ara
+
+  Womp Womp
+
+  Dialup sounds
+
+  AwOOOOga
+
+  Yuhhh Thats Hot
+
+  Simpson hah ha
+
+  Simpson DOH!
+
+  Tactical Nuke incoming
+
+  erm what the sigma
+
+
+  Cal 8/6/24 stream: "Barry Always satifies me"
+  
+  Vapor: your honor... CAP!
+
+
+
+
+PAINTINGS
+
+  When you red lobster (Cal dm)
+
+  Motivational Cat (Cal) posters
+
+  Mona lisa with Max's skin face
+
+  Otherealm last supper
+
+  animated spinning perro
+
+  amongus twerk
+
+  Otherealm logo
+
+  Boat bros
+
+
+
+
+HATS
+
+Custom Otherealm bean people
+
+Elf ears for toxi
+
+sun glasses
+
+
+
+
+COMMANDS
 
 Goat horn
 /give vapor6701 minecraft:goat_horn[minecraft:instrument={sound_event:{sound_id:"minecraft:entity.warden.sonic_boom"},use_duration:80, range:20f},minecraft:lore=["Bruh"]]
@@ -50,19 +138,5 @@ Goat horn
 
 
 
-Datapacks
-
-replace mine with vanilla tweaks
-
-add mob heads and armored elytra
-
-create "food-inator" datapack
-
-	turn function into trigger
-
-
-
-
-Look into "parrot keeps dancing" bug
 
 Look into "jukebox attenuation distance"

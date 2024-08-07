@@ -100,5 +100,46 @@
         "name": "custom:item/goat_horn/amongus"
       }
     ]
+  },
+  "horn.do_it" : {
+    "subtitle": "Do it",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/do_it"
+      }
+    ]
+  },
+  "horn.fart" : {
+    "subtitle": "Fart with Reverb",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/fart_with_reverb",
+        "volume": 0.8
+      }
+    ]
+  },
+  "horn.goood" : {
+    "subtitle": "Goooood",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/goood"
+      }
+    ]
+  },
+  "horn.hello_there" : {
+    "subtitle": "Hello There!",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/hello_there"
+      }
+    ]
+  },
+  "horn.metal_pipe" : {
+    "subtitle": "Metal Pipe",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/metal_pipe"
+      }
+    ]
   }
 }
