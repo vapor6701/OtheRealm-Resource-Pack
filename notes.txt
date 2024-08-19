@@ -1,6 +1,7 @@
 Resource pack TODO
 
 
+
 DISCS
   
   wii shop theme
@@ -21,6 +22,8 @@ DISCS
 HORNS
 
   Lego brick break
+
+  how much deticated ram
 
   Discord ping notification
 
@@ -106,13 +109,8 @@ HORNS
 
 PAINTINGS
 
-  When you red lobster (Cal dm)
-
-  Motivational Cat (Cal) posters
-
   Mona lisa with Max's skin face
 
-  Otherealm last supper
 
   animated spinning perro
 
