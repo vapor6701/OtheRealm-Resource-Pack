@@ -141,5 +141,13 @@
         "name": "custom:item/goat_horn/metal_pipe"
       }
     ]
+  },
+  "horn.steve" : {
+    "subtitle": "I... am Steve",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/i_am_steve"
+      }
+    ]
   }
 }
