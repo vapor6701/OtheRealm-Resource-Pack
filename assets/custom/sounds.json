@@ -149,5 +149,13 @@
         "name": "custom:item/goat_horn/i_am_steve"
       }
     ]
+  },
+  "horn.yeet" : {
+    "subtitle": "YEET",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/yeet"
+      }
+    ]
   }
 }
