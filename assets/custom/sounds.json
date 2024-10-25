@@ -157,5 +157,37 @@
         "name": "custom:item/goat_horn/yeet"
       }
     ]
+  },
+  "horn.uwu" : {
+    "subtitle": "UwU",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/uwu"
+      }
+    ]
+  },
+  "horn.discord_ping" : {
+    "subtitle": "Someone sent you a message",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/discord_ping"
+      }
+    ]
+  },
+  "horn.har_har" : {
+    "subtitle": "Har Har Har Har",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/freddy_har_har"
+      }
+    ]
+  },
+  "horn.vapor_meow" : {
+    "subtitle": "MeeeeOOWWWWW",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/vapor_meow"
+      }
+    ]
   }
 }
