@@ -11,6 +11,9 @@
   {"predicate":{"custom_model_data": 3}, "model": "custom:item/hats/barry_hat_model"},
   {"predicate":{"custom_model_data": 4}, "model": "custom:item/hats/bowler_hat"},
   {"predicate":{"custom_model_data": 5}, "model": "custom:item/hats/owl_construction_hat"},
-  {"predicate":{"custom_model_data": 6}, "model": "custom:item/hats/stick_hat"}
+  {"predicate":{"custom_model_data": 6}, "model": "custom:item/hats/stick_hat"},
+  {"predicate":{"custom_model_data": 7}, "model": "custom:item/vortex_ghost/vortex_ghost_1"},
+  {"predicate":{"custom_model_data": 8}, "model": "custom:item/vortex_ghost/vortex_ghost_2"}
+
   ]
 }
