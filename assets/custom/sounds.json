@@ -189,5 +189,21 @@
         "name": "custom:item/goat_horn/vapor_meow"
       }
     ]
+  },
+  "horn.steve_mines" : {
+    "subtitle": "The children YEARN",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/yearned_for_the_mines"
+      }
+    ]
+  },
+  "horn.romeo_ahhh" : {
+    "subtitle": "ahhhhh",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/romeo_ahhh"
+      }
+    ]
   }
 }
