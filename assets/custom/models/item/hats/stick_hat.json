@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:item/stick",
+		"0": "item/stick",
 		"1": "custom:item/hats/stick_hat_moss",
-		"particle": "minecraft:item/stick"
+		"particle": "item/stick"
 	},
 	"elements": [
 		{
@@ -347,7 +347,7 @@
 			"scale": [1.1, 1.1, 1.1]
 		},
 		"head": {
-			"scale": [1.07, 1.09, 1.07]
+			"scale": [1.25, 1.1, 1.25]
 		}
 	},
 	"groups": [

@@ -6,14 +6,24 @@
     "side": "minecraft:block/pumpkin_side"
   },
   "overrides": [
-  {"predicate":{"custom_model_data": 1}, "model": "custom:item/hats/red_santa_hat"},
+  {"predicate":{"custom_model_data": 1}, "model": "custom:item/hats/old_santa_hat"},
   {"predicate":{"custom_model_data": 2}, "model": "custom:item/hats/sims_diamond"},
   {"predicate":{"custom_model_data": 3}, "model": "custom:item/hats/barry_hat_model"},
   {"predicate":{"custom_model_data": 4}, "model": "custom:item/hats/bowler_hat"},
   {"predicate":{"custom_model_data": 5}, "model": "custom:item/hats/owl_construction_hat"},
   {"predicate":{"custom_model_data": 6}, "model": "custom:item/hats/stick_hat"},
   {"predicate":{"custom_model_data": 7}, "model": "custom:item/vortex_ghost/vortex_ghost_1"},
-  {"predicate":{"custom_model_data": 8}, "model": "custom:item/vortex_ghost/vortex_ghost_2"}
-
+  {"predicate":{"custom_model_data": 8}, "model": "custom:item/vortex_ghost/vortex_ghost_2"},
+  {"predicate":{"custom_model_data": 9}, "model": "custom:item/hats/elf_ears_minimal"},
+  {"predicate":{"custom_model_data": 10}, "model": "simplehats:item/antlers"},
+  {"predicate":{"custom_model_data": 11}, "model": "simplehats:item/festive_antlers"},
+  {"predicate":{"custom_model_data": 12}, "model": "simplehats:item/druid_antlers"},
+  {"predicate":{"custom_model_data": 13}, "model": "simplehats:item/santa_claus"},
+  {"predicate":{"custom_model_data": 14}, "model": "simplehats:item/santa_hat"},
+  {"predicate":{"custom_model_data": 15}, "model": "simplehats:item/elf_hat"},
+  {"predicate":{"custom_model_data": 16}, "model": "simplehats:item/red_nose"},
+  {"predicate":{"custom_model_data": 17}, "model": "simplehats:item/presents_stack"},
+  {"predicate":{"custom_model_data": 98}, "model": "custom:item/hats/leather_bicorn"},
+  {"predicate":{"custom_model_data": 99}, "model": "custom:item/hats/lime_tricorn"}
   ]
 }
