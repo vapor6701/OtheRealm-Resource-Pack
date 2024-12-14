@@ -1,0 +1,146 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "scale": 1.0,
+    "fallback": {
+    	"type": "minecraft:model",
+    	"model": "minecraft:block/carved_pumpkin"
+    },
+    "entries": [
+    	{
+    		"threshold": 1.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/hats/old_santa_hat"
+    		}
+    	},
+    	{
+    		"threshold": 2.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/hats/sims_diamond"
+    		}
+    	},
+    	{
+    		"threshold": 3.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/hats/barry_hat_model"
+    		}
+    	},
+    	{
+    		"threshold": 4.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/hats/bowler_hat"
+    		}
+    	},
+    	{
+    		"threshold": 5.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/hats/owl_construction_hat"
+    		}
+    	},
+    	{
+    		"threshold": 6.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/hats/stick_hat"
+    		}
+    	},
+    	{
+    		"threshold": 7.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/vortex_ghost/vortex_ghost_1"
+    		}
+    	},
+    	{
+    		"threshold": 8.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/vortex_ghost/vortex_ghost_2"
+    		}
+    	},
+    	{
+    		"threshold": 9.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/hats/elf_ears_minimal"
+    		}
+    	},
+    	{
+    		"threshold": 10.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "simplehats:item/antlers"
+    		}
+    	},
+    	{
+    		"threshold": 11.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "simplehats:item/festive_antlers"
+    		}
+    	},
+    	{
+    		"threshold": 12.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "simplehats:item/druid_antlers"
+    		}
+    	},
+    	{
+    		"threshold": 13.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "simplehats:item/santa_claus"
+    		}
+    	},
+    	{
+    		"threshold": 14.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "simplehats:item/santa_hat"
+    		}
+    	},
+    	{
+    		"threshold": 15.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "simplehats:item/elf_hat"
+    		}
+    	},
+    	{
+    		"threshold": 16.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "simplehats:item/red_nose"
+    		}
+    	},
+    	{
+    		"threshold": 17.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "simplehats:item/presents_stack"
+    		}
+    	},
+    	{
+    		"threshold": 98.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/hats/leather_bicorn"
+    		}
+    	},
+    	{
+    		"threshold": 99.0,
+    		"model": {
+    			"type": "minecraft:model",
+    			"model": "custom:item/hats/lime_tricorn"
+    		}
+    	}
+    ]
+  }
+}
