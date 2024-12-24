@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_11"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "custom:item/music_disc/dog"},
+    {"predicate": {"custom_model_data": 2}, "model": "custom:item/music_disc/doom"},
+    {"predicate": {"custom_model_data": 3}, "model": "custom:item/music_disc/rick_roll"},
+    {"predicate": {"custom_model_data": 4}, "model": "custom:item/music_disc/gameshow"},
+    {"predicate": {"custom_model_data": 5}, "model": "custom:item/music_disc/vibe"}
+
+  ]
+}
