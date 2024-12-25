@@ -8,7 +8,9 @@
     {"predicate": {"custom_model_data": 2}, "model": "custom:item/music_disc/doom"},
     {"predicate": {"custom_model_data": 3}, "model": "custom:item/music_disc/rick_roll"},
     {"predicate": {"custom_model_data": 4}, "model": "custom:item/music_disc/gameshow"},
-    {"predicate": {"custom_model_data": 5}, "model": "custom:item/music_disc/vibe"}
+    {"predicate": {"custom_model_data": 5}, "model": "custom:item/music_disc/vibe"},
+    {"predicate": {"custom_model_data": 6}, "model": "custom:item/music_disc/ani_cover"},
+    {"predicate": {"custom_model_data": 7}, "model": "custom:item/music_disc/vortex_santa"}
 
   ]
 }

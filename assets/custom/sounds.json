@@ -45,6 +45,24 @@
       }
     ]
   },
+  "music_disc.christmas_ani" : {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/christmas_in_our_hearts_ani",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.vortex_secret_santa" : {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/vortex_melony_christmas",
+        "stream": true
+      }
+    ]
+  },
   "horn.augh" : {
     "subtitle": "AUGH",
     "sounds": [
