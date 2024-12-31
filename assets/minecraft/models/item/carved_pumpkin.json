@@ -23,6 +23,7 @@
   {"predicate":{"custom_model_data": 15}, "model": "simplehats:item/elf_hat"},
   {"predicate":{"custom_model_data": 16}, "model": "simplehats:item/red_nose"},
   {"predicate":{"custom_model_data": 17}, "model": "simplehats:item/presents_stack"},
+  {"predicate":{"custom_model_data": 18}, "model": "custom:item/hats/2025_glasses"},
   {"predicate":{"custom_model_data": 98}, "model": "custom:item/hats/leather_bicorn"},
   {"predicate":{"custom_model_data": 99}, "model": "custom:item/hats/lime_tricorn"}
   ]
