@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "custom:item/horn/custom_horn"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "custom:item/horn/tooting_custom_horn"
+    },
+    "property": "minecraft:using_item"
+  }
+}
