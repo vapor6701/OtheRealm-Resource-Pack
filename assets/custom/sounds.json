@@ -223,5 +223,53 @@
         "name": "custom:item/goat_horn/romeo_ahhh"
       }
     ]
+  },
+  "horn.buy_my_seed" : {
+    "subtitle": "SEEEEEEDS?",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/buy_my_seeeeeeeds"
+      }
+    ]
+  },
+  "horn.grinzzon_pregnant" : {
+    "subtitle": "Draw him PREGNANT?",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/grinzzon_pregnant"
+      }
+    ]
+  },
+  "horn.pickle" : {
+    "subtitle": "pickle",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/pickle"
+      }
+    ]
+  },
+  "horn.pow_wop_pow" : {
+    "subtitle": "wop pow wop",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/pow_wop_pow"
+      }
+    ]
+  },
+  "horn.pretty_girl" : {
+    "subtitle": "Call me pretty like one of your french Grinzzons",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/pretty_girl"
+      }
+    ]
+  },
+  "horn.spicy_boi" : {
+    "subtitle": "much spice",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/spicy_boi"
+      }
+    ]
   }
 }
