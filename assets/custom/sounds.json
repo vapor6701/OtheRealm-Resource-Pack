@@ -50,7 +50,8 @@
     "sounds": [
       {
         "name": "custom:records/christmas_in_our_hearts_ani",
-        "stream": true
+        "stream": true,
+        "volume": 0.6
       }
     ]
   },
@@ -59,6 +60,24 @@
     "sounds": [
       {
         "name": "custom:records/vortex_melony_christmas",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.oiia_remix" : {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/oiia_remix",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.mcdonalds" : {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/mcdonalds",
         "stream": true
       }
     ]
@@ -269,6 +288,14 @@
     "sounds": [
       {
         "name": "custom:item/goat_horn/spicy_boi"
+      }
+    ]
+  },
+  "horn.chicken_jockey" : {
+    "subtitle": "chicken jockey",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/chicken_jockey"
       }
     ]
   }

@@ -2,6 +2,7 @@ Resource pack TODO
 
 
 
+
 DISCS
   
   wii shop theme
@@ -16,10 +17,14 @@ DISCS
 
   Nyan Cat
 
+  McDonalds in the Pentagon
+
 
 
 
 HORNS
+
+  Spinning cat
 
   Lego brick break
 

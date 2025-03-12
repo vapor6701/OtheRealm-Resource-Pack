@@ -134,6 +134,27 @@
           "model": "custom:item/hats/2025_glasses"
         }
       },
+      {
+        "threshold": 19.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/hats/clown_mask"
+        }
+      },
+      {
+        "threshold": 20.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/hats/jester_hat"
+        }
+      },
+      {
+        "threshold": 21.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/hats/prop_hat"
+        }
+      },
     	{
     		"threshold": 98.0,
     		"model": {
