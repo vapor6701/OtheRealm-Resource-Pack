@@ -82,6 +82,15 @@
       }
     ]
   },
+  "music_disc.jack_black" : {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/jack_black_song",
+        "stream": true
+      }
+    ]
+  },
   "horn.augh" : {
     "subtitle": "AUGH",
     "sounds": [
@@ -296,6 +305,46 @@
     "sounds": [
       {
         "name": "custom:item/goat_horn/chicken_jockey"
+      }
+    ]
+  },
+  "horn.family_lives" : {
+    "subtitle": "autotuned threats",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/family_lives"
+      }
+    ]
+  },
+  "horn.given_orders" : {
+    "subtitle": "You were given orders...",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/given_orders"
+      }
+    ]
+  },
+  "horn.melon_lawyer" : {
+    "subtitle": "Saul Gourdman",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/melon_lawyer"
+      }
+    ]
+  },
+  "horn.nut" : {
+    "subtitle": "nut",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/nut"
+      }
+    ]
+  },
+  "horn.stand_ready" : {
+    "subtitle": "Stand Ready Worm",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/stand_ready"
       }
     ]
   }
