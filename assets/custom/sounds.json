@@ -82,51 +82,48 @@
       }
     ]
   },
-  "horn.augh" : {
-    "subtitle": "AUGH",
+  "music_disc.jack_black" : {
+    "subtitle": "Music Plays",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/augh_horn"
+        "name": "custom:records/jack_black_song",
+        "stream": true
       }
     ]
   },
-  "horn.bruh" : {
-    "subtitle": "Bruh",
+  "music_disc.happy_birthday" : {
+    "subtitle": "Music Plays",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/bruh_horn"
+        "name": "custom:records/grinzzon_happy_birthday",
+        "stream": true
       }
     ]
   },
-  "horn.cal_pain" : {
-    "subtitle": "I am in pain",
+  "music_disc.flint_n_steel_remix" : {
+    "subtitle": "Music Plays",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/cal_pain_horn"
+        "name": "custom:records/flint_n_steel_remix",
+        "stream": true
       }
     ]
   },
-  "horn.father_help" : {
-    "subtitle": "Father Help!",
+  "music_disc.stardew_moonlight_jellies" : {
+    "subtitle": "Music Plays",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/father_help_horn"
+        "name": "custom:records/stardew_moonlight_jellies",
+        "stream": true
       }
     ]
-  },
-  "horn.vine_boom" : {
-    "subtitle": "Vine",
+  },    
+  "music_disc.stardew_raven_descent" : {
+    "subtitle": "Music Plays",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/vine_boom_horn"
-      }
-    ]
-  },
-  "horn.yippee" : {
-    "subtitle": "Yippee!!",
-    "sounds": [
-      {
-        "name": "custom:item/goat_horn/yippee_horn"
+        "name": "custom:records/stardew_raven_descent",
+        "stream": true
       }
     ]
   },
@@ -135,6 +132,31 @@
     "sounds": [
       {
         "name": "custom:item/goat_horn/amongus"
+      }
+    ]
+  },
+  "horn.augh" : {
+    "subtitle": "AUGH",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/augh"
+      }
+    ]
+  },
+  "horn.bruh" : {
+    "subtitle": "Bruh",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/bruh"
+      }
+    ]
+  },
+
+  "horn.discord_ping" : {
+    "subtitle": "Someone sent you a message",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/discord_ping"
       }
     ]
   },
@@ -155,6 +177,22 @@
       }
     ]
   },
+  "horn.father_help" : {
+    "subtitle": "Father Help!",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/father_help"
+      }
+    ]
+  },
+  "horn.har_har" : {
+    "subtitle": "Har Har Har Har",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/freddy_har_har"
+      }
+    ]
+  },
   "horn.goood" : {
     "subtitle": "Goooood",
     "sounds": [
@@ -171,6 +209,14 @@
       }
     ]
   },
+  "horn.lego_brick_break" : {
+    "subtitle": "-$200",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/lego_brick_break"
+      }
+    ]
+  },
   "horn.metal_pipe" : {
     "subtitle": "Metal Pipe",
     "sounds": [
@@ -179,19 +225,27 @@
       }
     ]
   },
-  "horn.steve" : {
-    "subtitle": "I... am Steve",
+  "horn.nut" : {
+    "subtitle": "nut",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/i_am_steve"
+        "name": "custom:item/goat_horn/nut"
       }
     ]
   },
-  "horn.yeet" : {
-    "subtitle": "YEET",
+  "horn.oof" : {
+    "subtitle": "oof",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/yeet"
+        "name": "custom:item/goat_horn/oof"
+      }
+    ]
+  },
+  "horn.smash_steve" : {
+    "subtitle": "STEVE",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/super_smash_steve"
       }
     ]
   },
@@ -203,100 +257,310 @@
       }
     ]
   },
-  "horn.discord_ping" : {
-    "subtitle": "Someone sent you a message",
+  "horn.vine_boom" : {
+    "subtitle": "Vine",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/discord_ping"
+        "name": "custom:item/goat_horn/vine_boom"
       }
     ]
   },
-  "horn.har_har" : {
-    "subtitle": "Har Har Har Har",
+  "horn.yeet" : {
+    "subtitle": "YEET",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/freddy_har_har"
+        "name": "custom:item/goat_horn/yeet"
       }
     ]
   },
-  "horn.vapor_meow" : {
-    "subtitle": "MeeeeOOWWWWW",
+  "horn.yippee" : {
+    "subtitle": "Yippee!!",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/vapor_meow"
+        "name": "custom:item/goat_horn/yippee"
       }
     ]
   },
-  "horn.steve_mines" : {
-    "subtitle": "The children YEARN",
+  "horn.yoda_death" : {
+    "subtitle": "He died",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/yearned_for_the_mines"
+        "name": "custom:item/goat_horn/yoda_death"
       }
     ]
   },
-  "horn.romeo_ahhh" : {
-    "subtitle": "ahhhhh",
+  "horn.otherealm.seen_my_baby" : {
+    "subtitle": "Ani lost his child",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/romeo_ahhh"
+        "name": "custom:item/goat_horn/otherealm/ani_seen_my_baby"
       }
     ]
   },
-  "horn.buy_my_seed" : {
-    "subtitle": "SEEEEEEDS?",
-    "sounds": [
-      {
-        "name": "custom:item/goat_horn/buy_my_seeeeeeeds"
-      }
-    ]
-  },
-  "horn.grinzzon_pregnant" : {
-    "subtitle": "Draw him PREGNANT?",
-    "sounds": [
-      {
-        "name": "custom:item/goat_horn/grinzzon_pregnant"
-      }
-    ]
-  },
-  "horn.pickle" : {
-    "subtitle": "pickle",
-    "sounds": [
-      {
-        "name": "custom:item/goat_horn/pickle"
-      }
-    ]
-  },
-  "horn.pow_wop_pow" : {
+  "horn.otherealm.pow_wop_pow" : {
     "subtitle": "wop pow wop",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/pow_wop_pow"
+        "name": "custom:item/goat_horn/otherealm/pow_wop_pow"
       }
     ]
   },
-  "horn.pretty_girl" : {
-    "subtitle": "Call me pretty like one of your french Grinzzons",
+  "horn.otherealm.buy_my_seed" : {
+    "subtitle": "SEEEEEEDS?",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/pretty_girl"
+        "name": "custom:item/goat_horn/otherealm/barry_buy_my_seed"
       }
     ]
   },
-  "horn.spicy_boi" : {
+  "horn.otherealm.spicy_boi" : {
     "subtitle": "much spice",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/spicy_boi"
+        "name": "custom:item/goat_horn/otherealm/barry_spicy_boi"
       }
     ]
   },
-  "horn.chicken_jockey" : {
-    "subtitle": "chicken jockey",
+  "horn.otherealm.cal_hey_my_children" : {
+    "subtitle": "Cal found his kids",
     "sounds": [
       {
-        "name": "custom:item/goat_horn/chicken_jockey"
+        "name": "custom:item/goat_horn/otherealm/cal_hey_my_children"
       }
+    ]
+  },
+  "horn.otherealm.cal_oh_no" : {
+    "subtitle": "Oh No!",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/cal_oh_no"
+      }
+    ]
+  },
+  "horn.otherealm.cal_pain" : {
+    "subtitle": "I am in pain",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/cal_pain"
+      }
+    ]
+  },
+  "horn.otherealm.cal_pickle" : {
+    "subtitle": "pickle",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/pickle/cal_pickle"
+      }
+    ]
+  },
+  "horn.otherealm.grinzzon_pregnant" : {
+    "subtitle": "Draw him PREGNANT?",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/grinzzon_pregnant"
+      }
+    ]
+  },
+  "horn.otherealm.grinzzon_pretty_girl" : {
+    "subtitle": "Call me pretty like one of your french Grinzzons",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/grinzzon_pretty_girl"
+      }
+    ]
+  },
+  "horn.otherealm.melon_lawyer" : {
+    "subtitle": "Saul Gourdman",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/melon_lawyer"
+      }
+    ]
+  },
+  "horn.otherealm.objection_ohio" : {
+    "subtitle": "Send him to SpringField!",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/objection_ohio"
+      }
+    ]
+  },
+  "horn.otherealm.romeo_ahhh" : {
+    "subtitle": "ahhhhh",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/romeo_ahhh"
+      }
+    ]
+  },
+  "horn.otherealm.vapor_meow" : {
+    "subtitle": "MeeeeOOWWWWW",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/meow/vapor_meow"
+      }
+    ]
+  },
+  "horn.otherealm.your_honor_cap" : {
+    "subtitle": "Just a silly guy defense",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/your_honor_cap"
+      }
+    ]
+  },
+  "horn.invincible.are_you_sure" : {
+    "subtitle": "Are you sure",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/invincible/are_you_sure"
+      }
+    ]
+  },
+  "horn.invincible.family_lives" : {
+    "subtitle": "Autotuned threats",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/invincible/family_lives"
+      }
+    ]
+  },
+  "horn.invincible.given_orders" : {
+    "subtitle": "You were given orders...",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/invincible/given_orders"
+      }
+    ]
+  },
+    "horn.invincible.so_lonely" : {
+    "subtitle": "He's conquesting",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/invincible/so_lonely"
+      }
+    ]
+  },
+  "horn.invincible.stand_ready" : {
+    "subtitle": "Stand Ready Worm",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/invincible/stand_ready"
+      }
+    ]
+  },
+  "horn.invincible.titlecard" : {
+    "subtitle": "IM [insert image here]",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/invincible/titlecard"
+      }
+    ]
+  },
+  "horn.mc_movie.chicken_jockey" : {
+    "subtitle": "Chicken Jockey!",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/mc_movie/chicken_jockey"
+      }
+    ]
+  },
+  "horn.mc_movie.flint_n_steel" : {
+    "subtitle": "Flint n Steel!",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/mc_movie/flint_n_steel"
+      }
+    ]
+  },
+  "horn.mc_movie.steve" : {
+    "subtitle": "I... am Steve",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/mc_movie/i_am_steve"
+      }
+    ]
+  },
+  "horn.mc_movie.steve_mines" : {
+    "subtitle": "The children YEARN",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/mc_movie/yearned_for_the_mines"
+      }
+    ]
+  },
+  "horn.variants.meow" : {
+    "subtitle": "meow but harmony",
+    "sounds": [
+      "custom:item/goat_horn/meow/vapor_meow",
+      "custom:item/goat_horn/meow/cal_meow",
+      "custom:item/goat_horn/meow/grinzzon_meow",
+      "custom:item/goat_horn/meow/koolnerd_meow"
+    ]
+  },
+  "horn.variants.pickle" : {
+    "subtitle": "pickle but harmony",
+    "sounds": [
+      "custom:item/goat_horn/pickle/cal_pickle",
+      "custom:item/goat_horn/pickle/vapor_pickle",
+      "custom:item/goat_horn/pickle/grinzzon_pickle",
+      "custom:item/goat_horn/pickle/koolnerd_pickle"
+    ]
+  },
+  "horn.variants.all_horns" : {
+    "subtitle": "you never know what you get!!",
+    "sounds": [
+      "custom:item/goat_horn/invincible/are_you_sure",
+      "custom:item/goat_horn/invincible/family_lives",
+      "custom:item/goat_horn/invincible/given_orders",
+      "custom:item/goat_horn/invincible/so_lonely",
+      "custom:item/goat_horn/invincible/stand_ready",
+      "custom:item/goat_horn/invincible/titlecard",
+      "custom:item/goat_horn/mc_movie/chicken_jockey",
+      "custom:item/goat_horn/mc_movie/flint_n_steel",
+      "custom:item/goat_horn/mc_movie/i_am_steve",
+      "custom:item/goat_horn/mc_movie/yearned_for_the_mines",
+      "custom:item/goat_horn/meow/vapor_meow",
+      "custom:item/goat_horn/meow/cal_meow",
+      "custom:item/goat_horn/meow/grinzzon_meow",
+      "custom:item/goat_horn/meow/koolnerd_meow",
+      "custom:item/goat_horn/otherealm/ani_seen_my_baby",
+      "custom:item/goat_horn/otherealm/barry_buy_my_seed",
+      "custom:item/goat_horn/otherealm/barry_spicy_boi",
+      "custom:item/goat_horn/otherealm/cal_hey_my_children",
+      "custom:item/goat_horn/otherealm/cal_oh_no",
+      "custom:item/goat_horn/otherealm/cal_pain",
+      "custom:item/goat_horn/otherealm/grinzzon_pregnant",
+      "custom:item/goat_horn/otherealm/grinzzon_pretty_girl",
+      "custom:item/goat_horn/otherealm/melon_lawyer",
+      "custom:item/goat_horn/otherealm/objection_ohio",
+      "custom:item/goat_horn/otherealm/pow_wop_pow",
+      "custom:item/goat_horn/otherealm/romeo_ahhh",
+      "custom:item/goat_horn/otherealm/your_honor_cap",
+      "custom:item/goat_horn/pickle/cal_pickle",
+      "custom:item/goat_horn/pickle/vapor_pickle",
+      "custom:item/goat_horn/pickle/grinzzon_pickle",
+      "custom:item/goat_horn/pickle/koolnerd_pickle",
+      "custom:item/goat_horn/amongus",
+      "custom:item/goat_horn/augh",
+      "custom:item/goat_horn/bruh",
+      "custom:item/goat_horn/discord_ping",
+      "custom:item/goat_horn/do_it",
+      "custom:item/goat_horn/fart_with_reverb",
+      "custom:item/goat_horn/father_help",
+      "custom:item/goat_horn/freddy_har_har",
+      "custom:item/goat_horn/goood",
+      "custom:item/goat_horn/hello_there",
+      "custom:item/goat_horn/lego_brick_break",
+      "custom:item/goat_horn/metal_pipe",
+      "custom:item/goat_horn/nut",
+      "custom:item/goat_horn/oof",
+      "custom:item/goat_horn/super_smash_steve",
+      "custom:item/goat_horn/uwu",
+      "custom:item/goat_horn/vine_boom",
+      "custom:item/goat_horn/yeet",
+      "custom:item/goat_horn/yippee",
+      "custom:item/goat_horn/yoda_death"
     ]
   }
 }

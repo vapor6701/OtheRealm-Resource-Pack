@@ -45,6 +45,51 @@
           },
           "property": "minecraft:using_item"
         }
+      },
+      {
+        "threshold": 3.0,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "custom:item/horn/golden_horn"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "custom:item/horn/tooting_golden_horn"
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 4.0,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "custom:item/horn/invincible_horn"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "custom:item/horn/tooting_invincible_horn"
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 5.0,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "custom:item/horn/chaos_horn"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "custom:item/horn/tooting_chaos_horn"
+          },
+          "property": "minecraft:using_item"
+        }
       }
     ]
   }
