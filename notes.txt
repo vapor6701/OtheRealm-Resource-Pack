@@ -2,6 +2,56 @@ Resource pack TODO
 
 
 
+Invincble: Are you sure?
+
+{invincible title card}
+
+Invincble: Im so lonely
+
+super smash bros: STEVE
+
+Minecraft OOF
+
+Yoda death sound
+
+Lego brick break
+
+FLINT N STEEL
+
+
+
+pickle variations
+
+meow variations
+
+
+Cals: OH NO!
+
+Ani: Have you seen my child
+
+Cal: Oh HEY! My Children!
+
+Vapor: your honor... CAP!
+
+KoolNerd: Objection! Ohio!
+
+{Grinzzon Happy Birthday} to disc
+
+Stardew Valley Autumn 
+Stardew Midnight Jellies
+
+
+Full Horn. Every single horn sound available
+
+Make a post for who wants a no cooldown horn
+
+
+Look at making the horns stackable so they can be bundled
+
+
+
+fix author/title for current discs
+
 
 DISCS
   
@@ -17,20 +67,17 @@ DISCS
 
   Nyan Cat
 
-  McDonalds in the Pentagon
 
 
 
 
 HORNS
 
-  Spinning cat
 
-  Lego brick break
 
   how much deticated ram
 
-  Yoda death sound
+
 
   prowler motif (cal dm)
 
@@ -42,9 +89,8 @@ HORNS
 
   uncopywrited circus tunes (barry)
 
-  pickle (barry)
 
-  Roblox OOF
+  
 
   bee movie introduction
 
@@ -78,8 +124,6 @@ HORNS
 
   Dialup sounds
 
-  AwOOOOga
-
   Yuhhh Thats Hot
 
   Simpson hah ha
@@ -96,7 +140,8 @@ HORNS
 
   I dont like sand
   
-  Vapor: your honor... CAP!
+
+  Cal: FSHHHH
 
 
 
@@ -105,14 +150,12 @@ PAINTINGS
 
   Mona lisa with Max's skin face
 
-
   animated spinning perro
 
   amongus twerk
 
   Otherealm logo
 
-  Boat bros
 
 
 
@@ -121,7 +164,6 @@ HATS
 
 Custom Otherealm bean people
 
-Elf ears for toxi
 
 sun glasses
 
@@ -132,7 +174,6 @@ COMMANDS
 
 Goat horn
 /give vapor6701 minecraft:goat_horn[minecraft:instrument={sound_event:{sound_id:"minecraft:entity.warden.sonic_boom"},use_duration:80, range:20f},minecraft:lore=["Bruh"]]
-
 
 
 
