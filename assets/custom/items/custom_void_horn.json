@@ -1,0 +1,113 @@
+{
+  "model":{
+    "type":"minecraft:composite",
+    "models":[
+      {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "scale": 1.0,
+        "fallback": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "custom:item/horn/orange_horn"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "custom:item/horn/tooting_orange_horn"
+          },
+          "property": "minecraft:using_item"
+        },
+        "entries": [
+          {
+            "threshold": 1.0,
+            "model": {
+              "type": "minecraft:condition",
+              "on_false": {
+                "type": "minecraft:model",
+                "model": "custom:item/horn/green_horn"
+              },
+              "on_true": {
+                "type": "minecraft:model",
+                "model": "custom:item/horn/tooting_green_horn"
+              },
+              "property": "minecraft:using_item"
+            }
+          },
+          {
+            "threshold": 2.0,
+            "model": {
+              "type": "minecraft:condition",
+              "on_false": {
+                "type": "minecraft:model",
+                "model": "custom:item/horn/purple_horn"
+              },
+              "on_true": {
+                "type": "minecraft:model",
+                "model": "custom:item/horn/tooting_purple_horn"
+              },
+              "property": "minecraft:using_item"
+            }
+          },
+          {
+            "threshold": 3.0,
+            "model": {
+              "type": "minecraft:condition",
+              "on_false": {
+                "type": "minecraft:model",
+                "model": "custom:item/horn/golden_horn"
+              },
+              "on_true": {
+                "type": "minecraft:model",
+                "model": "custom:item/horn/tooting_golden_horn"
+              },
+              "property": "minecraft:using_item"
+            }
+          },
+          {
+            "threshold": 4.0,
+            "model": {
+              "type": "minecraft:condition",
+              "on_false": {
+                "type": "minecraft:model",
+                "model": "custom:item/horn/invincible_horn"
+              },
+              "on_true": {
+                "type": "minecraft:model",
+                "model": "custom:item/horn/tooting_invincible_horn"
+              },
+              "property": "minecraft:using_item"
+            }
+          },
+          {
+            "threshold": 5.0,
+            "model": {
+              "type": "minecraft:condition",
+              "on_false": {
+                "type": "minecraft:model",
+                "model": "custom:item/horn/chaos_horn"
+              },
+              "on_true": {
+                "type": "minecraft:model",
+                "model": "custom:item/horn/tooting_chaos_horn"
+              },
+              "property": "minecraft:using_item"
+            }
+          }
+        ]
+      },
+      {
+        "type": "minecraft:condition",
+        "on_false": {
+          "type": "minecraft:model",
+          "model": "custom:item/horn/horn_background"
+        },
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "custom:item/horn/tooting_horn_background"
+        },
+        "property": "minecraft:using_item"
+      }
+    ]
+  }
+}
