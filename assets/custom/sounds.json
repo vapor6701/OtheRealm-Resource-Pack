@@ -265,6 +265,14 @@
       }
     ]
   },
+  "horn.wooo" : {
+    "subtitle": "WOOOOO",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/critical_woo"
+      }
+    ]
+  },
   "horn.yeet" : {
     "subtitle": "YEET",
     "sounds": [

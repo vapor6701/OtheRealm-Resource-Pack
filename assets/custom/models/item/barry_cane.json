@@ -4,7 +4,8 @@
 	"textures": {
 		"0": "custom:item/barry_staff/handle",
 		"1": "custom:item/barry_staff/crystal",
-		"2": "custom:item/barry_staff/hilt"
+		"2": "custom:item/barry_staff/hilt",
+		"particle": "custom:item/barry_staff/crystal"
 	},
 	"elements": [
 		{
