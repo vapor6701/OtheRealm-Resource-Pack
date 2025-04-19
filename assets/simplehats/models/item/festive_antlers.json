@@ -3,7 +3,8 @@
 	"parent": "simplehats:item/hatparent",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "simplehats:item/hats/festive_antlers"
+		"0": "simplehats:item/hats/festive_antlers",
+		"particle": "simplehats:item/hats/festive_antlers"
 	},
 	"elements": [
 		{

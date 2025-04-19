@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "simplehats:item/hatparent",
 	"textures": {
-		"0": "simplehats:item/hats/red_nose"
+		"0": "simplehats:item/hats/red_nose",
+		"particle": "simplehats:item/hats/red_nose"
 	},
 	"elements": [
 		{

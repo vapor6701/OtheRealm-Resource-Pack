@@ -1,6 +1,6 @@
 {
-   "pack":{
-      "pack_format":46,
-      "description":"OtheRealm Season 2 resource pack on 1.21.4"
-   }
+    "pack": {
+        "pack_format": 55,
+        "description": "OtheRealm Season 2 resource pack on 1.21.4"
+    }
 }

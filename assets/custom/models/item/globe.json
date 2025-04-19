@@ -3,7 +3,8 @@
 	"texture_size": [32, 16],
 	"textures": {
 		"1": "custom:item/globe/globe_stand",
-		"2": "custom:item/globe/globe_the_world"
+		"2": "custom:item/globe/globe_the_world",
+		"particle": "custom:item/globe/globe_the_world"
 	},
 	"elements": [
 		{
