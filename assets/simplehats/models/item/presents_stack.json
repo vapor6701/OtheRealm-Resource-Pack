@@ -2,7 +2,8 @@
 	"parent": "simplehats:item/hatparent",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "simplehats:item/hats/presents_stack"
+		"0": "simplehats:item/hats/presents_stack",
+		"particle": "simplehats:item/hats/presents_stack"
 	},
 	"elements": [
 		{

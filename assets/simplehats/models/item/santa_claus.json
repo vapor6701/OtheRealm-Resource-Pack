@@ -3,7 +3,8 @@
 	"parent": "simplehats:item/hatparent",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "simplehats:item/hats/santa_claus"
+		"2": "simplehats:item/hats/santa_claus",
+		"particle": "simplehats:item/hats/santa_claus"
 	},
 	"elements": [
 		{
