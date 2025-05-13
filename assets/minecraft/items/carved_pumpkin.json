@@ -155,6 +155,27 @@
           "model": "custom:item/hats/prop_hat"
         }
       },
+      {
+        "threshold": 22.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/trophies/base_trophy"
+        }
+      },
+      {
+        "threshold": 23.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/trophies/magnifying_glass_trophy"
+        }
+      },
+      {
+        "threshold": 24.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/trophies/scavenger_winner_trophy"
+        }
+      },
     	{
     		"threshold": 98.0,
     		"model": {

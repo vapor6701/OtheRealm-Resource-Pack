@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/carved_pumpkin",
+	"parent": "minecraft:block/carved_pumpkin",
 	"texture_size": [80, 80],
 	"textures": {
 		"0": "custom:item/hats/barry_hat",
