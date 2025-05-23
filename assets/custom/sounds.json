@@ -1,5 +1,5 @@
 {
-  "music_disc.dog" : {
+  "music_disc.dog": {
     "subtitle": "Music Plays",
     "sounds": [
       {
@@ -8,7 +8,7 @@
       }
     ]
   },
-  "music_disc.rick_roll" : {
+  "music_disc.rick_roll": {
     "subtitle": "Gotcha!",
     "sounds": [
       {
@@ -17,7 +17,7 @@
       }
     ]
   },
-  "music_disc.doom" : {
+  "music_disc.doom": {
     "subtitle": "Rip and Tear!",
     "sounds": [
       {
@@ -26,7 +26,7 @@
       }
     ]
   },
-  "music_disc.gameshow" : {
+  "music_disc.gameshow": {
     "subtitle": "Welcome to the Gameshow!",
     "sounds": [
       {
@@ -35,7 +35,7 @@
       }
     ]
   },
-  "music_disc.vibe_song" : {
+  "music_disc.vibe_song": {
     "subtitle": "Music Plays",
     "sounds": [
       {
@@ -45,7 +45,7 @@
       }
     ]
   },
-  "music_disc.christmas_ani" : {
+  "music_disc.christmas_ani": {
     "subtitle": "Music Plays",
     "sounds": [
       {
@@ -55,7 +55,7 @@
       }
     ]
   },
-  "music_disc.vortex_secret_santa" : {
+  "music_disc.vortex_secret_santa": {
     "subtitle": "Music Plays",
     "sounds": [
       {
@@ -64,7 +64,7 @@
       }
     ]
   },
-  "music_disc.oiia_remix" : {
+  "music_disc.oiia_remix": {
     "subtitle": "Music Plays",
     "sounds": [
       {
@@ -73,7 +73,7 @@
       }
     ]
   },
-  "music_disc.mcdonalds" : {
+  "music_disc.mcdonalds": {
     "subtitle": "Music Plays",
     "sounds": [
       {
@@ -82,7 +82,7 @@
       }
     ]
   },
-  "music_disc.jack_black" : {
+  "music_disc.jack_black": {
     "subtitle": "Music Plays",
     "sounds": [
       {
@@ -91,7 +91,7 @@
       }
     ]
   },
-  "music_disc.happy_birthday" : {
+  "music_disc.happy_birthday": {
     "subtitle": "Music Plays",
     "sounds": [
       {
@@ -100,7 +100,7 @@
       }
     ]
   },
-  "music_disc.flint_n_steel_remix" : {
+  "music_disc.flint_n_steel_remix": {
     "subtitle": "Music Plays",
     "sounds": [
       {
@@ -109,7 +109,7 @@
       }
     ]
   },
-  "music_disc.stardew_moonlight_jellies" : {
+  "music_disc.stardew_moonlight_jellies": {
     "subtitle": "Music Plays",
     "sounds": [
       {
@@ -118,11 +118,38 @@
       }
     ]
   },    
-  "music_disc.stardew_raven_descent" : {
+  "music_disc.stardew_raven_descent": {
     "subtitle": "Music Plays",
     "sounds": [
       {
         "name": "custom:records/stardew_raven_descent",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.duel_fates": {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/duel_fates",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.lava_chicken": {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/lava_chicken",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.anilovania": {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/anilovania",
         "stream": true
       }
     ]
@@ -135,11 +162,27 @@
       }
     ]
   },
+  "horn.apple_alarm" : {
+    "subtitle": "WAKE UP WAKE UP",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/apple_alarm"
+      }
+    ]
+  },
   "horn.augh" : {
     "subtitle": "AUGH",
     "sounds": [
       {
         "name": "custom:item/goat_horn/augh"
+      }
+    ]
+  },
+  "horn.booo" : {
+    "subtitle": "BOOOOO",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/booo"
       }
     ]
   },
@@ -151,7 +194,6 @@
       }
     ]
   },
-
   "horn.discord_ping" : {
     "subtitle": "Someone sent you a message",
     "sounds": [
@@ -165,6 +207,14 @@
     "sounds": [
       {
         "name": "custom:item/goat_horn/do_it"
+      }
+    ]
+  },
+  "horn.extremely_incorrect" : {
+    "subtitle": "*EXTREMELY LOUD INNCORRECT BUZZER",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/extremely_incorrect"
       }
     ]
   },
@@ -241,11 +291,27 @@
       }
     ]
   },
+  "horn.roger_roger" : {
+    "subtitle": "Roger Roger",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/roger_roger"
+      }
+    ]
+  },
   "horn.smash_steve" : {
     "subtitle": "STEVE",
     "sounds": [
       {
         "name": "custom:item/goat_horn/super_smash_steve"
+      }
+    ]
+  },
+  "horn.this_guy_stinks" : {
+    "subtitle": "OH BROTHER....",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/this_guy_stinks"
       }
     ]
   },
@@ -262,6 +328,14 @@
     "sounds": [
       {
         "name": "custom:item/goat_horn/vine_boom"
+      }
+    ]
+  },
+  "horn.wi_wi_wi_cat" : {
+    "subtitle": "wi wi wi",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/wi_wi_wi_cat"
       }
     ]
   },
@@ -294,6 +368,14 @@
     "sounds": [
       {
         "name": "custom:item/goat_horn/yoda_death"
+      }
+    ]
+  },
+  "horn.otherealm.giggity" : {
+    "subtitle": "Ani x Quagmire fanfic",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/ani_giggity"
       }
     ]
   },
@@ -345,11 +427,27 @@
       }
     ]
   },
+  "horn.otherealm.grinzzon_oh_no" : {
+    "subtitle": "Oh No!",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/grinzzon_oh_no"
+      }
+    ]
+  },
   "horn.otherealm.cal_pain" : {
     "subtitle": "I am in pain",
     "sounds": [
       {
         "name": "custom:item/goat_horn/otherealm/cal_pain"
+      }
+    ]
+  },
+  "horn.otherealm.gay_por" : {
+    "subtitle": "I didn't want to add this",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/otherealm/gay_por"
       }
     ]
   },
@@ -533,11 +631,14 @@
       "custom:item/goat_horn/meow/grinzzon_meow",
       "custom:item/goat_horn/meow/koolnerd_meow",
       "custom:item/goat_horn/otherealm/ani_seen_my_baby",
+      "custom:item/goat_horn/otherealm/ani_giggity",
       "custom:item/goat_horn/otherealm/barry_buy_my_seed",
       "custom:item/goat_horn/otherealm/barry_spicy_boi",
       "custom:item/goat_horn/otherealm/cal_hey_my_children",
       "custom:item/goat_horn/otherealm/cal_oh_no",
       "custom:item/goat_horn/otherealm/cal_pain",
+      "custom:item/goat_horn/otherealm/gay_por",
+      "custom:item/goat_horn/otherealm/grinzzon_oh_no",
       "custom:item/goat_horn/otherealm/grinzzon_pregnant",
       "custom:item/goat_horn/otherealm/grinzzon_pretty_girl",
       "custom:item/goat_horn/otherealm/melon_lawyer",
@@ -550,10 +651,13 @@
       "custom:item/goat_horn/pickle/grinzzon_pickle",
       "custom:item/goat_horn/pickle/koolnerd_pickle",
       "custom:item/goat_horn/amongus",
+      "custom:item/goat_horn/apple_alarm",
       "custom:item/goat_horn/augh",
       "custom:item/goat_horn/bruh",
+      "custom:item/goat_horn/critical_woo",
       "custom:item/goat_horn/discord_ping",
       "custom:item/goat_horn/do_it",
+      "custom:item/goat_horn/extremely_incorrect",
       "custom:item/goat_horn/fart_with_reverb",
       "custom:item/goat_horn/father_help",
       "custom:item/goat_horn/freddy_har_har",
@@ -563,9 +667,12 @@
       "custom:item/goat_horn/metal_pipe",
       "custom:item/goat_horn/nut",
       "custom:item/goat_horn/oof",
+      "custom:item/goat_horn/roger_roger",
       "custom:item/goat_horn/super_smash_steve",
+      "custom:item/goat_horn/this_guy_stinks",
       "custom:item/goat_horn/uwu",
       "custom:item/goat_horn/vine_boom",
+      "custom:item/goat_horn/wi_wi_wi_cat",
       "custom:item/goat_horn/yeet",
       "custom:item/goat_horn/yippee",
       "custom:item/goat_horn/yoda_death"
