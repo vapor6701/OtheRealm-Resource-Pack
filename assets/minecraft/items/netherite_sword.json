@@ -28,6 +28,30 @@
           "type": "minecraft:model",
           "model": "custom:item/netherite_cutlass"
         }
+      },
+      {
+        "threshold": 4.0,
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "model": {
+                "type": "minecraft:model",
+                "model": "custom:item/vapor_sword_gui"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ]
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "custom:item/vapor_sword"
+          },
+          "property": "minecraft:display_context"
+        }
       }
     ]
   }
