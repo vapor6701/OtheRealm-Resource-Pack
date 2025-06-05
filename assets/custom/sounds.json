@@ -299,6 +299,14 @@
       }
     ]
   },
+  "horn.veggietales_signalflare_babies" : {
+    "subtitle": "THE BABIES!!!",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/veggietales_signalflare_babies"
+      }
+    ]
+  },
   "horn.smash_steve" : {
     "subtitle": "STEVE",
     "sounds": [
