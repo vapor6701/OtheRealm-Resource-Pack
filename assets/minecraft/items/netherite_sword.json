@@ -37,7 +37,7 @@
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "custom:item/vapor_sword_gui"
+                "model": "custom:item/vapor/sword_gui"
               },
               "when": [
                 "gui",
@@ -48,7 +48,51 @@
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "custom:item/vapor_sword"
+            "model": "custom:item/vapor/sword"
+          },
+          "property": "minecraft:display_context"
+        }
+      },
+      {
+        "threshold": 105.0,
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "model": {
+                "type": "minecraft:model",
+                "model": "custom:item/vapor/saber_gui"
+              },
+              "when": [
+                "gui"
+              ]
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "custom:item/vapor/saber_red"
+          },
+          "property": "minecraft:display_context"
+        }
+      },
+      {
+        "threshold": 106.0,
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "model": {
+                "type": "minecraft:model",
+                "model": "custom:item/vapor/saber_gui"
+              },
+              "when": [
+                "gui"
+              ]
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "custom:item/vapor/saber_blue"
           },
           "property": "minecraft:display_context"
         }

@@ -47,7 +47,7 @@
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "custom:item/vapor_trident"
+                "model": "custom:item/vapor/trident_gui"
               },
               "when": [
                 "gui",
@@ -60,11 +60,11 @@
             "type": "minecraft:condition",
             "on_false": {
               "type": "minecraft:model",
-              "model": "custom:item/vapor_trident_in_hand"
+              "model": "custom:item/vapor/trident"
             },
             "on_true": {
               "type": "minecraft:model",
-              "model": "custom:item/vapor_trident_throwing"
+              "model": "custom:item/vapor/trident_throwing"
             },
             "property": "minecraft:using_item"
           },
