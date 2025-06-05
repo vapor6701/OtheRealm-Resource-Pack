@@ -194,6 +194,14 @@
       }
     ]
   },
+  "horn.ben_transform" : {
+    "subtitle": "Bruh",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/ben_transform"
+      }
+    ]
+  },
   "horn.discord_ping" : {
     "subtitle": "Someone sent you a message",
     "sounds": [
