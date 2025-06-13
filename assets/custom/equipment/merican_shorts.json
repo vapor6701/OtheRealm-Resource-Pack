@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "custom:merican_shorts"
+      }
+    ]
+  }
+}
