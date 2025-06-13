@@ -1,6 +1,20 @@
 {
     "pack": {
         "pack_format": 55,
-        "description": "OtheRealm Season 2 resource pack on 1.21.5"
+        "description": "OtheRealm Season 2 resource pack on 1.21.5",
+        "credits": {
+            "maid_outfits": {
+                "author": "spirit0flove",
+                "link" : "https://www.curseforge.com/minecraft/texture-packs/maidcraft"
+            },
+            "simple_hats": {
+                "author": "fonnymunkey",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/simplehats"
+            },
+            "pirate accessories": {
+                "author": "Deesaster",
+                "link": "https://www.planetminecraft.com/texture-pack/dee-s-pirate-hats-v1-0/"
+            }
+        }
     }
 }

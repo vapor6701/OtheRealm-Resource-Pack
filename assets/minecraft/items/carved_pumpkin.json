@@ -176,6 +176,13 @@
           "model": "custom:item/trophies/scavenger_winner_trophy"
         }
       },
+      {
+        "threshold": 25.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/hats/merican_hat"
+        }
+      },
     	{
     		"threshold": 98.0,
     		"model": {
