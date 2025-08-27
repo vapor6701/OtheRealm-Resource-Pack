@@ -154,6 +154,15 @@
       }
     ]
   },
+  "music_disc.reddit_story": {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/reddit_story",
+        "stream": true
+      }
+    ]
+  },
   "horn.amongus" : {
     "subtitle": "Amongus",
     "sounds": [
@@ -360,6 +369,14 @@
     "sounds": [
       {
         "name": "custom:item/goat_horn/critical_woo"
+      }
+    ]
+  },
+    "horn.xp_shutdown" : {
+    "subtitle": "Windows Xp",
+    "sounds": [
+      {
+        "name": "custom:item/goat_horn/xp_shutdown"
       }
     ]
   },
