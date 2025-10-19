@@ -1,7 +1,8 @@
 {
     "pack": {
-        "pack_format": 64,
-        "description": "OtheRealm Season 2 resource pack on 1.21.7/8",
+        "min_format": [69, 0],
+        "max_format": [69, 0],
+        "description": "OtheRealm Season 2 resource pack on 1.21.9/10",
         "credits": {
             "maid_outfits": {
                 "author": "spirit0flove",
