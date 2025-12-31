@@ -163,6 +163,24 @@
       }
     ]
   },
+  "music_disc.eleven": {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/c418_eleven",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.intro": {
+    "subtitle": "Music Plays",
+    "sounds": [
+      {
+        "name": "custom:records/c418_intro",
+        "stream": true
+      }
+    ]
+  },
   "horn.amongus" : {
     "subtitle": "Amongus",
     "sounds": [
