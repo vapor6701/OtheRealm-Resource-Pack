@@ -183,6 +183,13 @@
           "model": "custom:item/hats/merican_hat"
         }
       },
+      {
+        "threshold": 26.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/hats/2026_glasses"
+        }
+      },
     	{
     		"threshold": 98.0,
     		"model": {
